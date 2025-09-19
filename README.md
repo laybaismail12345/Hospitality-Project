@@ -52,8 +52,9 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
  https://github.com/laybaismail12345/Hospitality-Project/blob/main/MySQL%20Hospitality%20Analytics%20Project.sql 
 
  Query Example:  
-```sql ## Weekday & Weekend Revenue and Booking
- 
+```sql
+##Weekday & Weekend Revenue and Booking
+
 Select D.day_type, format_num(sum(B.revenue_generated)) as Total_Revenue , count(B.booking_status) as Total_Bookings
 from fact_bookings B
 join dim_date D

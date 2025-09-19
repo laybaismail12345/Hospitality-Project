@@ -28,8 +28,7 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 
  [Download Power BI File (.pbix)](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analatics_Dashboard%20power%20bi.pbix)  
 
- Screenshot:  
-![Power BI Dashboard](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%202025-09-05%20121607.png)
+ Screenshot:(https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%202025-09-05%20121607.png)
 
 
 ##  Tableau Dashboard

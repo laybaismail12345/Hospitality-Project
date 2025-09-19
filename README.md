@@ -16,4 +16,5 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 - Developed an **Excel dashboard with slicers** for interactive filtering  
 
 📂 File: ((https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analytics_Dashboard2.csv))
+
 📸 Screenshot:((https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%20Excel.png))

@@ -15,7 +15,7 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 - Designed charts to visualize key trends  
 - Developed an **Excel dashboard with slicers** for interactive filtering  
 
- File: ((https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analytics_Dashboard2.csv))
+ [Download Excel File](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analytics_Dashboard2.csv)
 
  Dashboard Intrection <a href="https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%20Excel.png"> view Dashboard</a>
 

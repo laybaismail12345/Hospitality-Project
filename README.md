@@ -39,7 +39,7 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 
  [Tableau File](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Tableau%20Hospitality%20Analytics%20Dashboard.twbx)
 
- Dashboard Previewhttps://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%20Tableau.png
+![Power BI Dashboard](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%202025-09-05%20121607.png)
 
 
 ##  MySQL Analysis

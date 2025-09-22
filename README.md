@@ -3,10 +3,10 @@
 The objective of this project is to analyze hospitality industry data and uncover meaningful business insights.
 Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demonstrates how different tools can be applied for:
 
-1 Data cleaning & preparation
-2 KPI calculation (Revenue, ADR, RevPAR, Occupancy, Cancellation %)
-3 Visualization & interactive dashboards
-4 Comparative performance analysis across cities, room classes, and booking platforms
+- 1 Data cleaning & preparation
+- 2 KPI calculation (Revenue, ADR, RevPAR, Occupancy, Cancellation %)
+- 3 Visualization & interactive dashboards
+- 4 Comparative performance analysis across cities, room classes, and booking platforms
 
 ##  Excel Analysis
 - Performed **data cleaning and transformation** using Power Query  

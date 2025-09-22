@@ -7,7 +7,7 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 - 2 KPI calculation (Revenue, ADR, RevPAR, Occupancy, Cancellation %)
 - 3 Visualization & interactive dashboards
 - 4 Comparative performance analysis across cities, room classes, and booking platforms
-
+ 
 ##  Excel Analysis
 - Performed **data cleaning and transformation** using Power Query  
 - Built a **data model** for structured analysis  
@@ -15,9 +15,9 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 - Designed charts to visualize key trends  
 - Developed an **Excel dashboard with slicers** for interactive filtering  
 
- [Download Excel File](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analytics_Dashboard2.csv)
+ [Excel File](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analytics_Dashboard2.csv)
 
- Dashboard Intrection <a href="https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%20Excel.png"> view Dashboard</a>
+ Dashboard Intraction <a href="https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%20Excel.png"> view Dashboard</a>
 
 
 ##  Power BI Dashboard
@@ -26,9 +26,9 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 - Added **filters (City & Room Type)** for drill-down analysis  
 - Visualized **weekly performance trends** for better business tracking  
 
- [Download Power BI File (.pbix)](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analatics_Dashboard%20power%20bi.pbix)  
+ [Power BI File (.pbix)](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Hospitality_Analatics_Dashboard%20power%20bi.pbix)  
 
- Screenshot:(https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%202025-09-05%20121607.png)
+ Dashboard Intraction <a href="https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%202025-09-05%20121607.png"> View Dashboard<a/>
 
 
 ##  Tableau Dashboard
@@ -37,9 +37,9 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 - Compared **room-class contributions** to overall revenue  
 - Visualized **weekly trends** for occupancy and cancellations  
 
- Download Tableau File  https://github.com/laybaismail12345/Hospitality-Project/blob/main/Tableau%20Hospitality%20Analytics%20Dashboard.twbx
+ [Tableau File](https://github.com/laybaismail12345/Hospitality-Project/blob/main/Tableau%20Hospitality%20Analytics%20Dashboard.twbx)
 
- Dashboard Preview:https://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%20Tableau.png
+ Dashboard Previewhttps://github.com/laybaismail12345/Hospitality-Project/blob/main/Screenshot%20Tableau.png
 
 
 ##  MySQL Analysis
@@ -49,7 +49,7 @@ Using Excel, Power BI, Tableau, and MySQL on the same dataset, the project demon
 - Extracted cancellation patterns and platform performance  
 - Created a dataset to support dashboard building in BI tools  
 
- https://github.com/laybaismail12345/Hospitality-Project/blob/main/MySQL%20Hospitality%20Analytics%20Project.sql 
+ [MySQL File](https://github.com/laybaismail12345/Hospitality-Project/blob/main/MySQL%20Hospitality%20Analytics%20Project.sql)
 
  Query Example:  
 ```sql
